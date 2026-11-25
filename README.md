@@ -98,3 +98,22 @@ mvn serenity:aggregate
 ```
 
 GitHub: [@oscarchampi](https://github.com/oscarchampi)
+
+
+# Se adjunta capturas de las evidencias de los escenarios propuestos y ejecutados 
+
+
+<img width="1886" height="277" alt="image" src="https://github.com/user-attachments/assets/14383dee-e6e3-4bca-bdf8-4431649eceaa" />
+
+<img width="1872" height="245" alt="image" src="https://github.com/user-attachments/assets/45e19cb1-3aa9-41ce-87c8-ead90f869724" />
+
+<img width="1862" height="200" alt="image" src="https://github.com/user-attachments/assets/6cb9ebb3-c1be-4540-acbb-9487857e4544" />
+
+<img width="1852" height="857" alt="image" src="https://github.com/user-attachments/assets/2449017e-0c62-4132-ba4f-ead4c3343497" />
+
+<img width="1875" height="792" alt="image" src="https://github.com/user-attachments/assets/f0f2316a-5381-4aa3-bc71-604690f7ccc5" />
+
+
+
+
+
